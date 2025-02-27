@@ -1,0 +1,6 @@
+devops-automation/
+│── scripts/
+│   ├── devops_tasks.sh
+│── logs/
+│   ├── devops_automation.log
+│── README.md
